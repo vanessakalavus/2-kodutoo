@@ -17,6 +17,7 @@ Kodulehe kohustuslikud osad:
 4. Sinu tehtud programmeerimis- või graafikatööd
 5. Sektsioon sinu hobide 
 6. List lemmikmuusikaga - youtube või spotify list.
+7. Lihtne mäng javascriptiga - ei pea ise kirjutama, võib koodi ka mujalt võtta (viitama peab sellisel juhul) ja lehe sees tööle panna. 
 
 
 ### GitHub'i töövoog kodutöö esitamiseks
