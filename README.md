@@ -1,9 +1,9 @@
 # 2-kodutoo
 Teine kodutöö
 
-##Tähtaeg 23.04.2023 23:59
+## Tähtaeg 23.04.2023 23:59
 
-##Nõuded
+## Nõuded
 
 Tee endale koduleht kasutades fullpage.js-i: https://alvarotrigo.com/fullPage/docs/#introduction
 
